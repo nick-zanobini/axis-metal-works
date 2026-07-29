@@ -1,0 +1,6 @@
+[submodule "pricing-calculator"]
+	path = pricing-calculator
+	url = https://github.com/nick-zanobini/axis-metal-works-pricing.git
+[submodule "website"]
+	path = website
+	url = https://github.com/nick-zanobini/axis-metal-works-website.git
